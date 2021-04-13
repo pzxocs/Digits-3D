@@ -8,9 +8,9 @@ Top 2 ranked solution for 2019-2020 study year. Top 9 solution in between 2018 a
 
 Points to improve:
 
-- Preprocess data better (e.g. remove bad data samples)
-- Increase recognition rate (e.g. study algorithms, find bottlenecks)
--  ...
+- Study the data more deeply and improve the preprocessing stage 
+- Apply k-means/k-medois to increase classification speed
+- ...
 
 ### Confusion matrix (resampled, DTW)
 ![alt text](https://github.com/pzxocs/Digits-3D/blob/main/confmat.jpg)
